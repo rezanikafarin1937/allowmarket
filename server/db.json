@@ -1,0 +1,18 @@
+{
+  "products": [
+    {"id": "1","groupId" : "1","title" : "کت و دامن شایلا","price" : 559000 , "discount" : 10,"description" : "توضیحات","image" :  ["images/1/image1.jpg","images/1/image2.jpg","images/1/image3.jpg"]},
+    {"id": "2","groupId" : "1","title" : "دامن کشمیر هانا","price" : 159000, "discount" : 10,"description" : "توضیحات","image" : ["images/2/image1.jpg","images/2/image2.jpg","images/2/image3.jpg"]},
+    {"id": "3","groupId" : "1","title" : "صندل طبی هاوین","price" : 199000, "discount" : 10,"description" : "توضیحات","image" : ["images/3/image1.jpg","images/3/image2.jpg","images/3/image3.jpg"]},
+    {"id": "4","groupId" : "1","title" : "","price" : 299900, "discount" :10 ,"description" : "توضیحات","image" :  ["images/4/image1.jpg","images/4/image2.jpg","images/4/image3.jpg"]},
+    {"id": "5","groupId" : "1","title" : "ژاکت مردانه ام کی","price" : 2274000 , "discount" : 10,"description" : "","image" : ["images/5/image1.jpg","images/5/image2.jpg","images/5/image3.jpg"]},
+    {"id": "6","groupId" : "1","title" : "تی شرت آستین کوتاه مردانه","price" : 556000, "discount" : 12,"description" : "","image" : ["images/6/image1.jpg","images/6/image2.jpg","images/6/image3.jpg"]},
+    {"id": "7","groupId" : "1","title" : "مانتو زنانه ریس","price" : 909000 , "discount" : 9 ,"description" : "","image" : ["images/7/image1.jpg","images/7/image2.jpg","images/7/image3.jpg"]}
+  ],
+  "groups": [
+    { "id": "1", "name": "مد و لباس" },
+    { "id": "2", "name": "کیف و کفش" },
+    { "id": "3", "name": "خانه و آشپزخانه" },
+    { "id": "4", "name": "ورزش و مسافرت" },
+    { "id": "5", "name": "دیگر کالاها" }
+  ]
+}
